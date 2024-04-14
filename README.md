@@ -1,6 +1,8 @@
 # darryl1
 
-A new Flutter project.
+My first Flutter project.
+
+<img width="454" alt="Screenshot 2024-04-14 at 15 11 39" src="https://github.com/darrylad/darryl1_myFirstApp/assets/132708308/b0347a2e-9144-43f9-b7a3-9c9871a72a5c">
 
 ## Getting Started
 
